@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db8909a2-dc46-4725-9fba-8b544e5193f4" name="Changes" comment="" />
+    <list default="true" id="db8909a2-dc46-4725-9fba-8b544e5193f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KAzMyNiJL7R2ugf3enZuteDEcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -30,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C02_TripadvisorAnasayfa.test01">
     <configuration name="C01_AmazonAnasayfa.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGPractic" />
       <extension name="coverage">
@@ -49,8 +56,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C02_TripadvisorAnasayfa" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGPractic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tets.amazonTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tets.amazonTest" />
+      <option name="MAIN_CLASS_NAME" value="tets.amazonTest.C02_TripadvisorAnasayfa" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_TripadvisorAnasayfa.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGPractic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tets.amazonTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tets.amazonTest" />
+      <option name="MAIN_CLASS_NAME" value="tets.amazonTest.C02_TripadvisorAnasayfa" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_TripadvisorAnasayfa.test01" />
+        <item itemvalue="TestNG.C02_TripadvisorAnasayfa" />
         <item itemvalue="TestNG.C01_AmazonAnasayfa.test01" />
       </list>
     </recent_temporary>
@@ -65,5 +109,16 @@
       <updated>1673432132374</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
