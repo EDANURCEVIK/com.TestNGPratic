@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="db8909a2-dc46-4725-9fba-8b544e5193f4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tets/amazonTest/C01_AmazonAnasayfa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tets/amazonTest/C01_AmazonAnasayfa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/TripAdvisorPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/TripAdvisorPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tets/amazonTest/C01_AmazonAnasayfa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tets/amazonTest/C01_AmazonAnasayfa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tets/amazonTest/C02_TripadvisorAnasayfa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tets/amazonTest/C02_TripadvisorAnasayfa.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C02_TripadvisorAnasayfa.test01">
+  <component name="RunManager" selected="TestNG.C02_AmazonGecis.test01">
     <configuration name="C01_AmazonAnasayfa.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNGPractic" />
       <extension name="coverage">
@@ -48,6 +51,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="tets.amazonTest" />
       <option name="MAIN_CLASS_NAME" value="tets.amazonTest.C01_AmazonAnasayfa" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_AmazonGecis.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGPractic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tets.amazonTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tets.amazonTest" />
+      <option name="MAIN_CLASS_NAME" value="tets.amazonTest.C02_AmazonGecis" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -93,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_AmazonGecis.test01" />
         <item itemvalue="TestNG.C02_TripadvisorAnasayfa.test01" />
         <item itemvalue="TestNG.C02_TripadvisorAnasayfa" />
         <item itemvalue="TestNG.C01_AmazonAnasayfa.test01" />
